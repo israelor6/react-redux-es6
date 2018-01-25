@@ -1,0 +1,1 @@
+export const LOAD_JSON_SUCCESS = 'LOAD_JSON_SUCCESS';

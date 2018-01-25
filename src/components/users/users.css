@@ -1,0 +1,28 @@
+.select-box {
+    width: 400px!important;
+}
+
+.header {
+    background-color: #4a5972;
+    width: 90%;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    margin-right: 5%;
+}
+
+.query-container {
+	overflow-y: auto;
+	max-height: 25rem;
+	border: 1px solid rgba(74, 88, 114, 0.47);
+	border-radius: 4px;
+	padding-right: 11px;
+	margin: 4px;
+	box-shadow: 2px 3px rgba(74, 88, 114, 0.47);
+}
+
+.filter-button {
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+}
